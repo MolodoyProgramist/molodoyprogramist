@@ -9,7 +9,7 @@
 I'm a **Web Developer** passionate about building modern web applications and Telegram bots.  
 My main focus is **backend development**, but I also enjoy working with frontend technologies to create complete, user-friendly projects.  
 
-I'm 19 years old and have professional experience working in a **startup**, where I developed and maintained a large-scale **Telegram bot** and contributed to multiple web services.
+I'm 15 years old and have professional experience working in a **startup**, where I developed and maintained a large-scale **Telegram bot** and contributed to multiple web services.
 
 ---
 
