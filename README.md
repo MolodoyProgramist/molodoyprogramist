@@ -56,7 +56,7 @@ I'm 19 years old and have professional experience working in a **startup**, wher
 ---
 
 ### 🤖 What I Build  
-- Telegram bots with **Python (aiogram, pyTelegramBotAPI)**  
+- Telegram bots with **Python (aiogram)**  
 - REST APIs with **FastAPI** and **Flask**  
 - Web applications with **Django** and **Bootstrap**  
 - Integration systems and automation tools  
