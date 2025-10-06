@@ -66,13 +66,13 @@ I'm 19 years old and have professional experience working in a **startup**, wher
 
 ### 📫 Connect With Me  
 <p align="left">
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/MolodoyProgramist" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@gmail.com" target="_blank">
+  <a href="mailto:molodoyprogramist23@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your_github_username" target="_blank">
+  <a href="https://github.com/molodoyprogramist" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
