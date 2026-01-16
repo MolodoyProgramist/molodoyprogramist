@@ -1,6 +1,6 @@
 <!-- 👋 Hello, I'm Mark — FullStack Web Developer -->
 
-<h1 align="center">👋 Hi, I'm Mark</h1>
+<h1 align="center">👋 Hello, I'm Mark</h1>
 <h3 align="center">
 💻 FullStack Web Developer <br/>
 Backend • APIs • Telegram Bots
