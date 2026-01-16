@@ -6,10 +6,6 @@
 Backend • APIs • Telegram Bots
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=molodoyprogramist&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
 ---
 
 ## 🚀 About Me  
