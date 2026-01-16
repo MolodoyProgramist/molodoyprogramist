@@ -1,4 +1,4 @@
-<!-- 👋 Hi, I'm Mark — FullStack Web Developer -->
+<!-- 👋 Hello, I'm Mark — FullStack Web Developer -->
 
 <h1 align="center">👋 Hi, I'm Mark</h1>
 <h3 align="center">
